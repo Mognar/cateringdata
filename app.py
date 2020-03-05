@@ -19,11 +19,7 @@ from dateutil.relativedelta import relativedelta
 
 import json
 import requests
-from xml.dom import minidom
-import xml.etree.ElementTree as ET
 import pandas as pd
-import urllib3
-import pprint
 from datetime import datetime
 
 
